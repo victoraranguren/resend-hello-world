@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Este proyecto es un template de [Next.js](https://nextjs.org) + [Resend](https://resend.com) para enviar email, ya incluye:
+
+- Configuración usando la guía oficial
+- Por defecto recibe un objeto JSON en el body del request como datos de entrada
 
 ## Getting Started
 
